@@ -4,5 +4,3 @@
 ##Download truffle Ganache
 ##Downlaod MyetherWallet
 
-![alt text](https://github.com/OuedraogoAbdoul/Create-a-Smart-Contract/edit/master/TotalTransaction Create.PNG)
-
